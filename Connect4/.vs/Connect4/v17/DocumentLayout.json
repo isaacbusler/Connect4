@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\viewmodels\\connect4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\viewmodels\\connect4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\models\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\models\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\models\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\models\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\converters\\cellvaluetosymbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\converters\\cellvaluetosymbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|c:\\users\\busleril22\\source\\repos\\connect4\\connect4\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D24AF9-8BDA-46D7-A657-50A721B99419}|Connect4\\Connect4.csproj|solutionrelative:connect4\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Connect4\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Connect4\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-29T16:41:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AI.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\AI.cs",
+              "RelativeDocumentMoniker": "Connect4\\Models\\AI.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\AI.cs",
+              "RelativeToolTip": "Connect4\\Models\\AI.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwv0MAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:04:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\CellViewModel.cs",
+              "RelativeDocumentMoniker": "Connect4\\Models\\CellViewModel.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\CellViewModel.cs",
+              "RelativeToolTip": "Connect4\\Models\\CellViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:36:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "Connect4\\Models\\Board.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Models\\Board.cs",
+              "RelativeToolTip": "Connect4\\Models\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:28:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CellValueToSymbolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Converters\\CellValueToSymbolConverter.cs",
+              "RelativeDocumentMoniker": "Connect4\\Converters\\CellValueToSymbolConverter.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Converters\\CellValueToSymbolConverter.cs",
+              "RelativeToolTip": "Connect4\\Converters\\CellValueToSymbolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:43:58.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connect4ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\ViewModels\\Connect4ViewModel.cs",
+              "RelativeDocumentMoniker": "Connect4\\ViewModels\\Connect4ViewModel.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\ViewModels\\Connect4ViewModel.cs",
+              "RelativeToolTip": "Connect4\\ViewModels\\Connect4ViewModel.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:28:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Connect4\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Connect4\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:38:33.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Connect4\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\BUSLERIL22\\source\\repos\\Connect4\\Connect4\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Connect4\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwJAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:24:13.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
